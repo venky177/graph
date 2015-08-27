@@ -66,8 +66,8 @@
         "shared_name" : "California Sauvignon Blanc"
       },
       "position" : {
-        "x" : 200,
-        "y" : 200
+        "x" : 1200,
+        "y" : 1200
       },
       "selected" : false
     }],"edges" : [ {
@@ -77,7 +77,7 @@
         "target" : "2",
         "selected" : false,
         "canonicalName" : "Aarauer Bierdeckel (cc) Bergues",
-        "SUID" : 1763,
+        "SUID" : 176,
         "name" : "Aarauer Bierdeckel (cc) Bergues",
         "interaction" : "cc",
         "shared_interaction" : "cc",
