@@ -10,10 +10,11 @@
     "name" : "WineCheeseNetwork"
   },
   "elements" : {
-    "nodes" : [ {
+    "nodes" : [ 
+	{
       "data" : {
-        "id" : "1",
-       "Strength" : 6,
+        "id" : "6",
+        "Strength" : 6,
         "selected" : false,
         "cytoscape_alias_list" : [ "Valdeon" ],
         "canonicalName" : "Valdeon",
@@ -23,109 +24,6 @@
         "SUID" : 303,
         "NodeType" : "Cheese",
         "name" : "Football",
-        "Country" : "Spain",
-        "shared_name" : "Valdeon"
-      },
-      "position" : {
-        "x" : 50,
-        "y" : 50
-      },
-      "selected" : false
-    },{
-	"data" : {
-        "id" : "11",
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Aarauer Bierdeckel" ],
-        "canonicalName" : "Aarauer Bierdeckel",
-        "SUID" : 430,
-        "NodeType" : "WhiteWine",
-        "name" : "Ronaldo",
-        "shared_name" : "Aarauer Bierdeckel"
-      },
-      "position" : {
-        "x" : 100,
-        "y" : 100
-      },
-      "selected" : false
-    },{
-      "data" : {
-        "id" : "12",
-        "selected" : false,
-        "cytoscape_alias_list" : [ "California Sauvignon Blanc" ],
-        "canonicalName" : "California Sauvignon Blanc",
-        "SUID" : 424,
-        "NodeType" : "WhiteWine",
-        "name" : "Rooney",
-        "shared_name" : "California Sauvignon Blanc"
-      },
-      "position" : {
-        "x" : 100,
-        "y" : 200
-      },
-      "selected" : false
-    },{
-      "data" : {
-        "id" : "13",
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Aarauer " ],
-        "canonicalName" : "Aarauer ",
-        "SUID" : 430,
-        "NodeType" : "WhiteWine",
-        "name" : "Kaka ",
-        "shared_name" : "Aarauer"
-      },
-      "position" : {
-        "x" : 100,
-        "y" : 300
-      },
-      "selected" : false
-    },{
-	"data" : {
-        "id" : "14",
-        
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Aarauer Bierdeckel" ],
-        "canonicalName" : "Aarauer Bierdeckel",
-        "SUID" : 430,
-        "NodeType" : "WhiteWine",
-        "name" : "Ronaldino",
-        
-        "shared_name" : "Aarauer Bierdeckel"
-      },
-      "position" : {
-        "x" : 100,
-        "y" : 400
-      },
-      "selected" : false
-    },{
-      "data" : {
-        "id" : "15",
-        "selected" : false,
-        "cytoscape_alias_list" : [ "California Sauvignon Blanc" ],
-        "canonicalName" : "California Sauvignon Blanc",
-        "SUID" : 424,
-        "NodeType" : "WhiteWine",
-        "name" : "Messi",
-        "shared_name" : "California Sauvignon Blanc"
-      },
-      "position" : {
-        "x" : 60,
-        "y" : 40
-      },
-      "selected" : false
-    },{
-      "data" : {
-        "id" : "6",
-       "Strength" : 6,
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Valdeon" ],
-        "canonicalName" : "Valdeon",
-        "Milk" : "Pasteurized cow's milk blue",
-        "Quality" : 92,
-        "Type" : "Semi-hard",
-        "SUID" : 303,
-        "NodeType" : "Cheese",
-        "name" : "Cricket",
         "Country" : "Spain",
         "shared_name" : "Valdeon"
       },
@@ -200,76 +98,6 @@
       "selected" : false
     }],"edges" : [ {
       "data" : {
-        "id" : "101",
-        "source" : "1",
-        "target" : "11",
-        "selected" : false,
-      "canonicalName" : "Aarauer Bierdeckel (cw) Bergues",
-        "SUID" : 1763,
-        "name" : "Aarauer Bierdeckel (cw) Bergues",
-        "interaction" : "cw",
-        "shared_interaction" : "cw",
-        "shared_name" : "Aarauer Bierdeckel (cw) Bergues"
-      },
-      "selected" : false
-    },{
-      "data" : {
-        "id" : "102",
-        "source" : "1",
-        "target" : "12",
-        "selected" : false,
-      "canonicalName" : "Aarauer Bierdeckel (cw) Bergues",
-        "SUID" : 1763,
-        "name" : "Aarauer Bierdeckel (cw) Bergues",
-        "interaction" : "cw",
-        "shared_interaction" : "cw",
-        "shared_name" : "Aarauer Bierdeckel (cw) Bergues"
-      },
-      "selected" : false
-    },{
-      "data" : {
-        "id" : "103",
-        "source" : "1",
-        "target" : "13",
-        "selected" : false,
-      "canonicalName" : "Aarauer Bierdeckel (cw) Bergues",
-        "SUID" : 1763,
-        "name" : "Aarauer Bierdeckel (cw) Bergues",
-        "interaction" : "cw",
-        "shared_interaction" : "cw",
-        "shared_name" : "Aarauer Bierdeckel (cw) Bergues"
-      },
-      "selected" : false
-    },{
-      "data" : {
-        "id" : "104",
-        "source" : "1",
-        "target" : "14",
-        "selected" : false,
-      "canonicalName" : "Aarauer Bierdeckel (cw) Bergues",
-        "SUID" : 1763,
-        "name" : "Aarauer Bierdeckel (cw) Bergues",
-        "interaction" : "cw",
-        "shared_interaction" : "cw",
-        "shared_name" : "Aarauer Bierdeckel (cw) Bergues"
-      },
-      "selected" : false
-    },{
-      "data" : {
-        "id" : "105",
-        "source" : "1",
-        "target" : "15",
-        "selected" : false,
-        "canonicalName" : "Aarauer Bierdeckel (cw) Bergues",
-        "SUID" : 1763,
-        "name" : "Aarauer Bierdeckel (cw) Bergues",
-        "interaction" : "cw",
-        "shared_interaction" : "cw",
-        "shared_name" : "Aarauer Bierdeckel (cw) Bergues"
-      },
-      "selected" : false
-    },{
-      "data" : {
         "id" : "200",
         "source" : "6",
         "target" : "7",
@@ -322,20 +150,6 @@
         "interaction" : "cr",
         "shared_interaction" : "cr",
         "shared_name" : "Aarauer Bierdeckel (cr) Bergues"
-      },
-      "selected" : false
-    },{
-      "data" : {
-        "id" : "204",
-        "source" : "1",
-        "target" : "6",
-        "selected" : false,
-        "canonicalName" : "Aarauer Bierdeckel (cc) Bergues",
-        "SUID" : 1763,
-        "name" : "Aarauer Bierdeckel (cc) Bergues",
-        "interaction" : "cc",
-        "shared_interaction" : "cc",
-        "shared_name" : "Aarauer Bierdeckel (cc) Bergues"
       },
       "selected" : false
     } ]
