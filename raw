@@ -54,11 +54,41 @@
         "y" : 20
       },
       "selected" : false
+    },{
+      "data" : {
+        "id" : "3",
+        "selected" : false,
+        "cytoscape_alias_list" : [ "California Sauvignon Blanc" ],
+        "canonicalName" : "California Sauvignon Blanc",
+        "SUID" : 424,
+        "NodeType" : "WhiteWine",
+        "name" : "California Sauvignon Blanc",
+        "shared_name" : "California Sauvignon Blanc"
+      },
+      "position" : {
+        "x" : 60,
+        "y" : 40
+      },
+      "selected" : false
     }],"edges" : [ {
       "data" : {
         "id" : "100",
         "source" : "1",
         "target" : "2",
+        "selected" : false,
+        "canonicalName" : "Aarauer Bierdeckel (cc) Bergues",
+        "SUID" : 1763,
+        "name" : "Aarauer Bierdeckel (cc) Bergues",
+        "interaction" : "cc",
+        "shared_interaction" : "cc",
+        "shared_name" : "Aarauer Bierdeckel (cc) Bergues"
+      },
+      "selected" : false
+    },{
+      "data" : {
+        "id" : "100",
+        "source" : "2",
+        "target" : "3",
         "selected" : false,
         "canonicalName" : "Aarauer Bierdeckel (cc) Bergues",
         "SUID" : 1763,
