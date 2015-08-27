@@ -15,26 +15,26 @@
         "id" : "1",
         "Strength" : 5,
         "selected" : false,
-        "cytoscape_alias_list" : [ "Aarauer Bierdeckel" ],
-        "canonicalName" : "Aarauer Bierdeckel",
-        "Milk" : "Raw cow's milk",
+        "cytoscape_alias_list" : [ "Aar " ],
+        "canonicalName" : "Aarauer ",
+        "Milk" : "100",
         "Synonym" : "Kuentener",
         "Quality" : 90,
-        "Type" : "Semi-soft",
+        "Type" : "Not Semi-soft",
         "SUID" : 430,
-        "NodeType" : "Cheese",
-        "name" : "Aarauer Bierdeckel",
+        "NodeType" : "WhiteWine",
+        "name" : "Football ",
         "Country" : "Switzerland",
-        "shared_name" : "Aarauer Bierdeckel"
+        "shared_name" : "Aarauer"
       },
       "position" : {
-        "x" : 10,
-        "y" : 10
+        "x" : 50,
+        "y" : 50
       },
       "selected" : false
     },{
 	"data" : {
-        "id" : "2",
+        "id" : "11",
         "Strength" : 5,
         "selected" : false,
         "cytoscape_alias_list" : [ "Aarauer Bierdeckel" ],
@@ -44,8 +44,8 @@
         "Quality" : 90,
         "Type" : "Semi-soft",
         "SUID" : 430,
-        "NodeType" : "Cheese",
-        "name" : "Aarauer Bierdeckel",
+        "NodeType" : "WhiteWine",
+        "name" : "Ronaldo",
         "Country" : "Switzerland",
         "shared_name" : "Aarauer Bierdeckel"
       },
@@ -56,28 +56,168 @@
       "selected" : false
     },{
       "data" : {
-        "id" : "3",
+        "id" : "12",
         "selected" : false,
         "cytoscape_alias_list" : [ "California Sauvignon Blanc" ],
         "canonicalName" : "California Sauvignon Blanc",
         "SUID" : 424,
         "NodeType" : "WhiteWine",
-        "name" : "California Sauvignon Blanc",
+        "name" : "Rooney",
         "shared_name" : "California Sauvignon Blanc"
       },
       "position" : {
-        "x" : 1200,
-        "y" : 1200
+        "x" : 100,
+        "y" : 200
+      },
+      "selected" : false
+    },{
+      "data" : {
+        "id" : "13",
+        "Strength" : 5,
+        "selected" : false,
+        "cytoscape_alias_list" : [ "Aarauer " ],
+        "canonicalName" : "Aarauer ",
+        "Milk" : "100",
+        "Synonym" : "Kuentener",
+        "Quality" : 90,
+        "Type" : "Not Semi-soft",
+        "SUID" : 430,
+        "NodeType" : "WhiteWine",
+        "name" : "Kaka ",
+        "Country" : "Switzerland",
+        "shared_name" : "Aarauer"
+      },
+      "position" : {
+        "x" : 100,
+        "y" : 300
+      },
+      "selected" : false
+    },{
+	"data" : {
+        "id" : "14",
+        "Strength" : 5,
+        "selected" : false,
+        "cytoscape_alias_list" : [ "Aarauer Bierdeckel" ],
+        "canonicalName" : "Aarauer Bierdeckel",
+        "Milk" : "Raw cow's milk",
+        "Synonym" : "Kuentener",
+        "Quality" : 90,
+        "Type" : "Semi-soft",
+        "SUID" : 430,
+        "NodeType" : "WhiteWine",
+        "name" : "Ronaldino",
+        "Country" : "Switzerland",
+        "shared_name" : "Aarauer Bierdeckel"
+      },
+      "position" : {
+        "x" : 100,
+        "y" : 400
+      },
+      "selected" : false
+    },{
+      "data" : {
+        "id" : "15",
+        "selected" : false,
+        "cytoscape_alias_list" : [ "California Sauvignon Blanc" ],
+        "canonicalName" : "California Sauvignon Blanc",
+        "SUID" : 424,
+        "NodeType" : "WhiteWine",
+        "name" : "Messi",
+        "shared_name" : "California Sauvignon Blanc"
+      },
+      "position" : {
+        "x" : 60,
+        "y" : 40
+      },
+      "selected" : false
+    },{
+      "data" : {
+        "id" : "6",
+        "selected" : false,
+        "cytoscape_alias_list" : [ "Cricket" ],
+        "canonicalName" : "Cricket",
+        "SUID" : 424,
+        "NodeType" : "RedWine",
+        "name" : "Cricket",
+        "shared_name" : "Cricket"
+      },
+      "position" : {
+        "x" : 30,
+        "y" : 30
+      },
+      "selected" : false
+    },{
+      "data" : {
+        "id" : "7",
+        "selected" : false,
+        "cytoscape_alias_list" : [ "Sachin" ],
+        "canonicalName" : "Sachin",
+        "SUID" : 424,
+        "NodeType" : "RedWine",
+        "name" : "Sachin",
+        "shared_name" : "Sachin"
+      },
+      "position" : {
+        "x" : 10,
+        "y" : 100
+      },
+      "selected" : false
+    },{
+      "data" : {
+        "id" : "8",
+        "selected" : false,
+        "cytoscape_alias_list" : [ "Lee" ],
+        "canonicalName" : "Lee",
+        "SUID" : 424,
+        "NodeType" : "RedWine",
+        "name" : "Lee",
+        "shared_name" : "Lee"
+      },
+      "position" : {
+        "x" : 10,
+        "y" : 200
+      },
+      "selected" : false
+    },{
+      "data" : {
+        "id" : "9",
+        "selected" : false,
+        "cytoscape_alias_list" : [ "Warne" ],
+        "canonicalName" : "Warne",
+        "SUID" : 424,
+        "NodeType" : "RedWine",
+        "name" : "Warne",
+        "shared_name" : "Warne"
+      },
+      "position" : {
+        "x" : 10,
+        "y" : 300
+      },
+      "selected" : false
+    },{
+      "data" : {
+        "id" : "10",
+        "selected" : false,
+        "cytoscape_alias_list" : [ "Virat" ],
+        "canonicalName" : "Virat",
+        "SUID" : 424,
+        "NodeType" : "RedWine",
+        "name" : "Virat",
+        "shared_name" : "Virat"
+      },
+      "position" : {
+        "x" : 10,
+        "y" : 400
       },
       "selected" : false
     }],"edges" : [ {
       "data" : {
-        "id" : "100",
+        "id" : "101",
         "source" : "1",
-        "target" : "2",
+        "target" : "11",
         "selected" : false,
         "canonicalName" : "Aarauer Bierdeckel (cc) Bergues",
-        "SUID" : 176,
+        "SUID" : 1763,
         "name" : "Aarauer Bierdeckel (cc) Bergues",
         "interaction" : "cc",
         "shared_interaction" : "cc",
@@ -86,9 +226,121 @@
       "selected" : false
     },{
       "data" : {
-        "id" : "101",
-        "source" : "2",
-        "target" : "3",
+        "id" : "102",
+        "source" : "1",
+        "target" : "12",
+        "selected" : false,
+        "canonicalName" : "Aarauer Bierdeckel (cc) Bergues",
+        "SUID" : 1763,
+        "name" : "Aarauer Bierdeckel (cc) Bergues",
+        "interaction" : "cc",
+        "shared_interaction" : "cc",
+        "shared_name" : "Aarauer Bierdeckel (cc) Bergues"
+      },
+      "selected" : false
+    },{
+      "data" : {
+        "id" : "103",
+        "source" : "1",
+        "target" : "13",
+        "selected" : false,
+        "canonicalName" : "Aarauer Bierdeckel (cc) Bergues",
+        "SUID" : 1763,
+        "name" : "Aarauer Bierdeckel (cc) Bergues",
+        "interaction" : "cc",
+        "shared_interaction" : "cc",
+        "shared_name" : "Aarauer Bierdeckel (cc) Bergues"
+      },
+      "selected" : false
+    },{
+      "data" : {
+        "id" : "104",
+        "source" : "1",
+        "target" : "14",
+        "selected" : false,
+        "canonicalName" : "Aarauer Bierdeckel (cc) Bergues",
+        "SUID" : 1763,
+        "name" : "Aarauer Bierdeckel (cc) Bergues",
+        "interaction" : "cc",
+        "shared_interaction" : "cc",
+        "shared_name" : "Aarauer Bierdeckel (cc) Bergues"
+      },
+      "selected" : false
+    },{
+      "data" : {
+        "id" : "105",
+        "source" : "1",
+        "target" : "15",
+        "selected" : false,
+        "canonicalName" : "Aarauer Bierdeckel (cc) Bergues",
+        "SUID" : 1763,
+        "name" : "Aarauer Bierdeckel (cc) Bergues",
+        "interaction" : "cc",
+        "shared_interaction" : "cc",
+        "shared_name" : "Aarauer Bierdeckel (cc) Bergues"
+      },
+      "selected" : false
+    },{
+      "data" : {
+        "id" : "200",
+        "source" : "6",
+        "target" : "7",
+        "selected" : false,
+        "canonicalName" : "Aarauer Bierdeckel (cc) Bergues",
+        "SUID" : 1763,
+        "name" : "Aarauer Bierdeckel (cc) Bergues",
+        "interaction" : "cc",
+        "shared_interaction" : "cc",
+        "shared_name" : "Aarauer Bierdeckel (cc) Bergues"
+      },
+      "selected" : false
+    },{
+      "data" : {
+        "id" : "201",
+        "source" : "6",
+        "target" : "8",
+        "selected" : false,
+        "canonicalName" : "Aarauer Bierdeckel (cc) Bergues",
+        "SUID" : 1763,
+        "name" : "Aarauer Bierdeckel (cc) Bergues",
+        "interaction" : "cc",
+        "shared_interaction" : "cc",
+        "shared_name" : "Aarauer Bierdeckel (cc) Bergues"
+      },
+      "selected" : false
+    },{
+      "data" : {
+        "id" : "202",
+        "source" : "6",
+        "target" : "9",
+        "selected" : false,
+        "canonicalName" : "Aarauer Bierdeckel (cc) Bergues",
+        "SUID" : 1763,
+        "name" : "Aarauer Bierdeckel (cc) Bergues",
+        "interaction" : "cc",
+        "shared_interaction" : "cc",
+        "shared_name" : "Aarauer Bierdeckel (cc) Bergues"
+      },
+      "selected" : false
+    },{
+      "data" : {
+        "id" : "203",
+        "source" : "6",
+        "target" : "10",
+        "selected" : false,
+        "canonicalName" : "Aarauer Bierdeckel (cc) Bergues",
+        "SUID" : 1763,
+        "name" : "Aarauer Bierdeckel (cc) Bergues",
+        "interaction" : "cc",
+        "shared_interaction" : "cc",
+        "shared_name" : "Aarauer Bierdeckel (cc) Bergues"
+      },
+      "selected" : false
+    },{
+      "data" : {
+        "id" : "204",
+        "source" : "1",
+        "target" : "2",
         "selected" : false,
         "canonicalName" : "Aarauer Bierdeckel (cc) Bergues",
         "SUID" : 1763,
