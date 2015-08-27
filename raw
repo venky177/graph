@@ -50,8 +50,8 @@
         "shared_name" : "Aarauer Bierdeckel"
       },
       "position" : {
-        "x" : 30,
-        "y" : 30
+        "x" : 100,
+        "y" : 100
       },
       "selected" : false
     },{
@@ -66,8 +66,8 @@
         "shared_name" : "California Sauvignon Blanc"
       },
       "position" : {
-        "x" : 70,
-        "y" : 70
+        "x" : 200,
+        "y" : 200
       },
       "selected" : false
     }],"edges" : [ {
