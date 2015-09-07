@@ -6,11 +6,11 @@
        },
        {
            "firstName": "Ronaldo",
-           "prob": 1
+           "prob": 3
        },
        {
            "firstName": "Kaka",
-           "prob": 1
+           "prob": 5
        }
    ]
 }
