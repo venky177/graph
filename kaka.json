@@ -1,0 +1,32 @@
+{
+   "person": [
+       {
+           "firstName": "Att:80",
+           "prob": 1
+       },
+       {
+           "firstName": "Ronaldo",
+           "prob": 2
+       },
+       {
+           "firstName": "Def:40",
+           "prob": 1
+       },
+       {
+           "firstName": "Messi",
+           "prob": 2
+       },
+       {
+           "firstName": "Pass:90",
+           "prob": 1
+       },
+       {
+           "firstName": "Football",
+           "prob": 3
+       },
+       {
+           "firstName": "Head:50",
+           "prob": 1
+       }
+   ]
+}
