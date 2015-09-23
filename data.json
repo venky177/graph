@@ -1,5 +1,5 @@
 {
-"data":[
+"content":[
 
  {"FreeBase":"http://rdf.freebase.com/ns/m.02p2r1m","Opencyc":"","name":"Vertex","Relevance":"0.619701","parent":"12.txt","Dbpedia":"http://dbpedia.org/resource/Vertex_(graph_theory)","Yago":""},
  {"FreeBase":"","Opencyc":"","name":"Glossary of graph theory","Relevance":"0.674308","parent":"12.txt","Dbpedia":"http://dbpedia.org/resource/Glossary_of_graph_theory","Yago":"http://yago-knowledge.org/resource/Glossary_of_graph_theory"},
